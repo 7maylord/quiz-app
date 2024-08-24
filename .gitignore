@@ -1,0 +1,12 @@
+**/node_modules
+.env
+*.sketch
+
+*.xd
+*.fig
+
+# Avoid your project being littered with annoying .DS_Store files!
+.DS_Store
+node_modules
+.env
+*logs
