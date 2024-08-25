@@ -84,7 +84,7 @@ body{
     font-weight: 600;
     color: #007bff;
 }
-.info_box .btn{
+.info_box .buttons{
     height: 60px;
     display: flex;
     align-items: center;
@@ -93,7 +93,7 @@ body{
     border-top: 1px solid lightgrey;
 }
 
-.info_box .btn button{
+.info_box .buttons button{
     margin: 0 5px;
     height: 40px;
     width: 100px;
@@ -344,12 +344,12 @@ footer button.show{
     font-weight: 600;
 }
 
-.result_box .btn{
+.result_box .buttons{
     display: flex;
     margin: 20px 0;
 }
 
-.result_box .btn button{
+.result_box .buttons button{
     margin: 0 10px;
     height: 45px;
     padding: 0 20px;
@@ -363,21 +363,21 @@ footer button.show{
     transition: all 0.3s ease;
 }
 
-.btn button.restart{
+.buttons button.restart{
     color: #fff;
     background: #007bff;
 }
 
-.btn button.restart:hover{
+.buttons button.restart:hover{
     background: #0263ca;
 }
 
-.btn button.quit{
+.buttons button.quit{
     color: #007bff;
     background: #fff;
 }
 
-.btn button.quit:hover{
+.buttons button.quit:hover{
     color: #fff;
     background: #007bff;
 }
