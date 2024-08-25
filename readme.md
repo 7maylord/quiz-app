@@ -26,7 +26,7 @@ A modern web browser (e.g., Chrome, Firefox, Edge).
 1. Clone the Repository:
 
     ````bash
-    git clone https://github.com/your-username/quiz-app.git
+    git clone https://github.com/7maylord/quiz-app.git
     cd quiz-app
     ````
 2. Open the Application:
